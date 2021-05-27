@@ -1,0 +1,16 @@
+PODS:
+  - lottie-ios (3.1.8)
+
+DEPENDENCIES:
+  - lottie-ios
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+
+PODFILE CHECKSUM: 0dacc9d020356d1f1cbdf0ff1e607f25bc2a45a3
+
+COCOAPODS: 1.5.3
